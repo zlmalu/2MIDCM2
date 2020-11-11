@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1589613352;s:3:"ttl";i:3600000;s:4:"data";a:2:{i:0;a:5:{s:11:"PK_Stock_ID";s:3:"145";s:10:"Stock_Name";s:4:"CK02";s:4:"Desc";s:10:"仓库2号";s:7:"Head_ID";s:1:"9";s:8:"headName";s:2:"cs";}i:1;a:5:{s:11:"PK_Stock_ID";s:3:"144";s:10:"Stock_Name";s:4:"CK01";s:4:"Desc";s:10:"仓库1号";s:7:"Head_ID";s:1:"1";s:8:"headName";s:5:"admin";}}}

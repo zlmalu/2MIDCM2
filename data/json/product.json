@@ -1,0 +1,7 @@
+{"total":7,"rows":[
+	{"id":1,"name":"单面双背板端架一层/成套一层","number":"1","attribute":"900*500*400*1500","attribute_introduction":"长度*名义宽度*生产宽度*高度","iconCls":"icon-ok"},
+	{"id":2,"name":"单面单背板端架及主架成套一层","number":"1","attribute":"900*500*400*1500","attribute_introduction":"长度*名义宽度*生产宽度*高度","iconCls":"icon-ok"},
+	{"id":3,"name":"双面双背板主架成套一层","number":"1","attribute":"900*500*400*1500","attribute_introduction":"长度*名义宽度*生产宽度*高度","iconCls":"icon-ok"}
+],"footer":[
+	{"name":"Total Persons:","persons":7,"iconCls":"icon-sum"}
+]}
